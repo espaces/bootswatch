@@ -1,3 +1,14 @@
+eSpaces customisations
+======================
+
+To build or rebuild:
+
+   npm install 
+   grunt
+
+Check out the files located within `build/espaces` and copy these into the relevant theme location (probably into ``collective.espaces``).
+
+
 Bootswatch
 ==========
 
