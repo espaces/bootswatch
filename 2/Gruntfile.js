@@ -16,8 +16,7 @@ module.exports = function (grunt) {
               ' * @license <%= pkg.license %>' + ' */'
     },
     swatch: {
-      amelia:{}, cerulean:{}, cosmo:{}, cyborg:{}, flatly:{}, journal:{}, readable:{},
-      simplex:{}, slate:{}, spacelab:{}, spruce:{}, superhero:{}, united:{}
+      espaces:{}
     },
     clean: {
       build: {
